@@ -1,5 +1,5 @@
 title = "Skateholder"
-baseURL = "https://example.com"
+baseURL = "/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
@@ -17,7 +17,7 @@ show_reading_time=true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/images/skateholder1_dark.png"
+  favicon = "/images/favicon.png"
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
